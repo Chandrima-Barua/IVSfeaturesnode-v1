@@ -1,0 +1,12 @@
+
+.help-text {
+    width: 100%;
+    font-size: 14px;
+    color: #777;
+    text-align: right;
+}
+
+.help-text span {
+    display: block;
+    padding: 0 10px 10px 0;
+}
